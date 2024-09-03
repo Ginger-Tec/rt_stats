@@ -39,3 +39,9 @@
 - loss_days: 손실 거래일
 - win_days_ratio: 수익 거래일 비율
 - loss_days_ratio: 손실 거래일 비율
+
+### cython
+
+```
+python3 setup.py build_ext --inplace
+```
